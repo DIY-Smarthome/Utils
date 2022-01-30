@@ -1,0 +1,4 @@
+export enum DetailedStatus {
+	PARTIAL_TIMEOUT = "PARTIAL_TIMEOUT",
+	NO_SUBSCRIPTIONS = "NO_SUBSCRIPTIONS"
+}
