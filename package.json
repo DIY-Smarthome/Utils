@@ -1,0 +1,26 @@
+{
+  "name": "diy-smarthome-utils",
+  "version": "1.0.0",
+  "description": "Utilities for the DIY-Smarthome",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIY-Smarthome/Utils.git"
+  },
+  "keywords": [
+    "Smarthome"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DIY-Smarthome/Utils/issues"
+  },
+  "homepage": "https://github.com/DIY-Smarthome/Utils#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "typescript": "^4.5.5"
+  }
+}
