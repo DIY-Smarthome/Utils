@@ -1,6 +1,6 @@
 export interface Eventdata {
-	port: number;
 	modulename: string;
+	eventname: string;
 	timeout: number;
 	payload: unknown;
 }
